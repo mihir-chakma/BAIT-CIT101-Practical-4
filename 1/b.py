@@ -8,4 +8,6 @@ print(display_in_binary)
 positive = int(input("Enter a positive integer: "))
 binary = bin(positive)
 print(binary)
+print(type(binary))
 
+# print(bin(binary)[2:])
