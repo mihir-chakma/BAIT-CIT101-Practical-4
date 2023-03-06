@@ -9,4 +9,5 @@ num = int(input("Enter a finite, positive number: "))
 factorial = math.factorial(num)
 
 # displaying the factorial of the number
-print("Factorial of", num, "is", factorial)
+print(f"Factorial of {num} is {factorial}.")
+

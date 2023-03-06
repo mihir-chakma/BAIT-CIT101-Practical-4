@@ -11,5 +11,4 @@ c = int(input("Enter the third integer: "))
 gcd = math.gcd(math.gcd(a, b), c)
 
 # print the GCD
-print("The GCD of", a, ",", b, "and", c, "is:", gcd)
-
+print(f"The GCD of {a}, {b}, and {c} is {gcd}")

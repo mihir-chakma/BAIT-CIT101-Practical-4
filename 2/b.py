@@ -12,5 +12,4 @@ lcm_ab = (a*b)//math.gcd(a,b)
 lcm_abc = (lcm_ab*c)//math.gcd(lcm_ab,c)
 
 # displaying the LCM of three integers
-print("LCM of {}, {} and {} is {}".format(a, b, c, lcm_abc))
 print(f"LCM of {a}, {b} and {c} is {lcm_abc}")

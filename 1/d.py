@@ -10,3 +10,5 @@ print(result)
 email = input("Enter your email: ")
 user_name, domain = email.split('@')
 print(f"Your username is {user_name}, and the domain is {domain}.")
+print(f"Your username is {user_name} \nand the domain is {domain}.")
+
