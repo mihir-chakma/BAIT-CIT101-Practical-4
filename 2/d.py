@@ -12,6 +12,4 @@ hypotenuse = float(input("Enter the length of the hypotenuse: "))
 side = math.sqrt((hypotenuse**2) / 2)
 
 # displaying the length of the side rounded to two decimal places
-print("Length of a side of the isosceles right-angled triangle is: {:.2f}".format(side))
-
 print(f"Length of a side of the isosceles right-angled triangle is: {side:.2f}")

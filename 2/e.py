@@ -15,6 +15,7 @@ circumference = math.pi * diameter
 tape_length = circumference * turns
 
 # displaying the length of the tape needed to repair the pipe
-print("Length of tape needed to repair the pipe is: {:.2f} cm".format(tape_length))
-
 print(f"Length of tape needed to repair the pipe is: {tape_length:.2f} cm")
+
+
+print("Length of tape needed to repair the pipe is: {:.2f} cm".format(tape_length))
