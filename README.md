@@ -1,3 +1,4 @@
-# BAIT CIT101 - Practical 4 - Solutions
+# BAIT CIT101 - Fundamentals of Programming
 
-- Python solutions
+### Practical 4 - Python solutions
+
